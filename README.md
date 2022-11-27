@@ -13,9 +13,9 @@
 
 </br>
 
-Feel free to connect with me on Linkedin and check out my work! 
+## Rest of my repositories are on this profile: https://github.com/tomondre/
 
-Rest of my repositories are on this profile: https://github.com/tomondre/
+Feel free to connect with me on Linkedin and check out my work!
 
 Here is my blog: https://blog.tomondre.com
 
