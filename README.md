@@ -9,7 +9,7 @@
   <img align="left" alt="Tomas Ondrejka Facebook" width="22px" src="https://cdn.tomondre.com/icons/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
+[](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
 
 
 Check out my blog: https://blog.tomondre.com
