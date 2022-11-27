@@ -11,7 +11,12 @@
 
 [](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
 
+</br>
+
 Feel free to connect with me on Linkedin and check out my work! 
+
+Rest of my repositories are on this profile: https://github.com/tomondre/
+
 Here is my blog: https://blog.tomondre.com
 
 <a href=#><img src="contributions.svg"></a>
