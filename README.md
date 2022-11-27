@@ -1,23 +1,12 @@
-
-<a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
-</a>
-<a href="https://www.instagram.com/tomas_ondrejka_/">
-  <img align="left" alt="Tomas Ondrejka Instagram" width="22px" src="https://cdn.tomondre.com/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/tomas.o.ondrejka/">
-  <img align="left" alt="Tomas Ondrejka Facebook" width="22px" src="https://cdn.tomondre.com/icons/facebook.svg" />
-</a>
-
-[](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
-
-</br>
+# Howdy 🤠
 
 ## Rest of my repositories are on this profile: https://github.com/tomondre/
 
-Feel free to connect with me on Linkedin and check out my work!
+[](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
 
-Here is my blog: https://blog.tomondre.com
+This account contains my less important/interesting repositories.
+
+Have a nice day!
 
 <a href=#><img src="contributions.svg"></a>
 
