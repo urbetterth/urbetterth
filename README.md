@@ -1,6 +1,6 @@
 # Howdy 🤠
 
-## Rest of my repositories are on this profile: https://github.com/tomondre/
+## Rest of my repositories are on this profile: https://github.com/tomondre
 
 [](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
 
