@@ -1,10 +1,10 @@
 # Howdy 🤠
 
+This account contains my less important/interesting private repositories.
+
 ## Rest of my repositories can be found on this profile: https://github.com/tomondre
 
 [](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
-
-This account contains my less important/interesting private repositories.
 
 Have a nice day!
 
