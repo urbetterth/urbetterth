@@ -4,7 +4,7 @@
 
 [](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
 
-This account contains my less important/interesting repositories.
+This account contains my less important/interesting private repositories.
 
 Have a nice day!
 
