@@ -11,12 +11,10 @@
 
 [](https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk)
 
-Feel free to connect with my on Linkedin and check out my work! 
+Feel free to connect with me on Linkedin and check out my work! 
 Here is my blog: https://blog.tomondre.com
 
 <a href=#><img src="contributions.svg"></a>
-
-
 
 
 <!--
